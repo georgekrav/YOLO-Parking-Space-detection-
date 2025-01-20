@@ -88,5 +88,4 @@ yolo predict model=runs/detect/train/weights/best.pt source=your_video.mp4 conf=
 ## Results
 The results of the training and testing will be saved in the `runs/` directory. Check the predictions and model weights there.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
